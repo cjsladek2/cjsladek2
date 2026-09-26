@@ -3,7 +3,7 @@
 # Hi, I'm Charlotte!
   
 [![Email](https://img.shields.io/badge/Email-cjsladek2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjsladek2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-charlottesladek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlottesladek/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charlotte_Sladek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlottesladek/)
 
 </div >
 
