@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi!
 
-<!--
-**cjsladek2/cjsladek2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Charlotte, a junior Computer Science and Statistics major at the University of Florida interested in data science, software development, and all the ways technology can make the world a better place. Lately, I’ve been dabbling in hardware, and I’m broadly interested in areas like geospatial data and causal inference.
 
-Here are some ideas to get you started:
+### Contact
+Email: [cjsladek2@gmail.com](mailto:cjsladek2@gmail.com)  
+LinkedIn: [linkedin.com/in/charlottesladek](https://www.linkedin.com/in/charlottesladek/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Facts / Hot Takes
+- I can whistle both inwards and outwards, with pitches!
+- I have very strong feelings about the Oxford comma (decidedly in favor)
+- UF’s azaleas are wildly underappreciated
+- Once upon a time, I was a Biochemistry major
+- I’m currently attempting to learn the ukulele
+- My childhood dream job was to be a S.H.I.E.L.D. agent
