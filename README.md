@@ -8,7 +8,7 @@
 </div >
 
 ### About
-Hi! I’m Charlotte, a junior Computer Science and Statistics major at the University of Florida interested in data science, software development, and all the ways technology can make the world a better place. Lately, I’ve been dabbling with hardware, and I’m broadly interested in areas like geospatial data and causal inference.
+Hi! I’m Charlotte, a junior Computer Science and Statistics major at the University of Florida interested in data science, software development, and all the ways technology can make the world a better place. Lately, I’ve been dabbling with hardware, attempting to learn the ukulele, and generally trying to learn a little bit more more about everything.
 
 ### Fun Facts / Hot Takes
 - I can whistle both inwards and outwards, with pitches!
