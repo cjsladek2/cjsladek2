@@ -7,16 +7,13 @@
 
 </div >
 
+<!--
 ### About
 
 Hi! I’m Charlotte, a junior Computer Science and Statistics major at the University of Florida with experience in data engineering, software development, and statistical analysis, though my overarching interest is in using technology to understand and improve real-world systems. Lately, I’ve been dabbling with hardware, attempting to learn the ukulele, and generally trying to learn a little more about everything. Present interests include spatiotemporal data, causal inference, and systems programming.
-
-<!-- Hi! I’m Charlotte, a junior Computer Science and Statistics major at the University of Florida interested in using technology to understand and improve real-world systems. Lately, I’ve been dabbling with hardware, attempting to learn the ukulele, and generally trying to learn a little more about everything. Present interests include spatiotemporal data, causal inference, and systems programming. -->
-
-<!-- Hi! I’m Charlotte, a junior Computer Science and Statistics major at the University of Florida interested in data science, software development, and all the ways technology can make the world a better place. Lately, I’ve been dabbling with hardware, attempting to learn the ukulele, and generally trying to learn a little bit more about everything. -->
 
 ### Fun Facts / Hot Takes
 - I can whistle both inwards and outwards, with pitches!
 - I have strong feelings about the Oxford comma (decidedly in favor)
 - UF’s azaleas are wildly underappreciated 🌸
-- My childhood dream job was to be a S.H.I.E.L.D. agent
+- My childhood dream job was to be a S.H.I.E.L.D. agent -->
